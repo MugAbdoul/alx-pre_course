@@ -1,1 +1,3 @@
-My first readme
+My first readme 
+
+Alx trainings for software engineering cohort 9
